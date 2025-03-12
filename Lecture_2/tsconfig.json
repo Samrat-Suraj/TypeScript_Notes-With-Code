@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6",   // Optional: specify the ECMAScript version you want to compile to
+    "outDir": "./dist",  // Optional: specify where to output compiled files
+  },
+  "include": [
+    "./app.ts"  // Include your TypeScript file
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
